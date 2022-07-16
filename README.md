@@ -1,5 +1,7 @@
 # LTspice_XY_curve_tracer  
-transistor circuit, curve tracer uses oscope XY mode to visual sweeping VC and step down of Vb, LTspice simulation  
+transistor circuit, curve tracer uses oscope XY mode to visual sweeping VC and step down of Vb, LTspice simulation 
+
+ref: https://www.eddybergman.com/2017/06/simple-but-effective-transistor-curve.html  
 
 ![v](X-Y_curve_tracer.JPG) 
 
